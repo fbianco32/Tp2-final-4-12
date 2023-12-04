@@ -1,0 +1,28 @@
+{
+  "name": "tp2-final-4-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbianco32/Tp2-final-4-12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbianco32/Tp2-final-4-12/issues"
+  },
+  "homepage": "https://github.com/fbianco32/Tp2-final-4-12#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "mongoose": "^8.0.2"
+  }
+}
